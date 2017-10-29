@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheShooter2.Plugins", "TheShooter2.Plugins.csproj", "{BC45F8D4-FC3C-F784-E90C-5210C8EF9D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheShooter2", "TheShooter2.csproj", "{CD92854B-0B5B-444B-C829-8AAD83F9743A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC45F8D4-FC3C-F784-E90C-5210C8EF9D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC45F8D4-FC3C-F784-E90C-5210C8EF9D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC45F8D4-FC3C-F784-E90C-5210C8EF9D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC45F8D4-FC3C-F784-E90C-5210C8EF9D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD92854B-0B5B-444B-C829-8AAD83F9743A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD92854B-0B5B-444B-C829-8AAD83F9743A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD92854B-0B5B-444B-C829-8AAD83F9743A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD92854B-0B5B-444B-C829-8AAD83F9743A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,44 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   21.21.13.7270
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Projects\pocetak\Unity\TheShooterBuild\TheShooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Projects\pocetak\Unity\TheShooterBuild\TheShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Projects\pocetak\Unity\TheShooterBuild\TheShooter_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Projects\pocetak\Unity\TheShooterBuild\TheShooter_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Projects\pocetak\Unity\TheShooterBuild\TheShooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Projects\pocetak\Unity\TheShooterBuild\TheShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Projects\pocetak\Unity\TheShooterBuild\TheShooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Projects\pocetak\Unity\TheShooterBuild\TheShooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Projects\pocetak\Unity\TheShooterBuild\TheShooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Projects\pocetak\Unity\TheShooterBuild\TheShooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.017 seconds
+Platform assembly: F:\Projects\pocetak\Unity\TheShooterBuild\TheShooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Projects\pocetak\Unity\TheShooterBuild\TheShooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 3280x1051 at -1680,-151
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.183601 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4bac -> priority: 1 
+  Thread -> id: 1bb4 -> priority: 1 
+  Thread -> id: 1314 -> priority: 1 
+  Thread -> id: 3f54 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.120018 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1032.
+Total: 0.415252 ms (FindLiveObjects: 0.069707 ms CreateObjectMapping: 0.018389 ms MarkObjects: 0.306627 ms  DeleteObjects: 0.019672 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.840767 ms
+
+Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 447.
+Total: 0.760368 ms (FindLiveObjects: 0.050890 ms CreateObjectMapping: 0.014112 ms MarkObjects: 0.291660 ms  DeleteObjects: 0.402422 ms)
+
